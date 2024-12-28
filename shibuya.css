@@ -1,0 +1,23 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(0, 0, 0)
+}
+    
+h2 {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: black;
+text-align: center;
+}
+
+header {
+    background-image: url(shibuya\ header.jpg);
+    padding: 25px;
+}
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black
+}
+body {
+    background-color: palegoldenrod;
+}
